@@ -1,5 +1,5 @@
 
-Operating-Systems Project Final Part
+# Operating-Systems Project Final Part
 
 This program serves as the server implementation for the theater reservation management system introduced in the "First Project." It allows multiple clients to interact concurrently with the server. The project is developed entirely in C, emphasizing the use of inter-process communication via pipes, signal handling, mutex synchronization, and building on the foundational concepts established in the first part of the project.
 
